@@ -1,0 +1,126 @@
+id,name,category,ratings,Company,Group
+2800,Goldman Sachs,Culture and Values,3.8,Goldman Sachs,Banking
+2800,Goldman Sachs,Senior Leadership,3.4,Goldman Sachs,Banking
+2800,Goldman Sachs,Compensation and Benefits,3.9,Goldman Sachs,Banking
+2800,Goldman Sachs,Career Opportunities,3.9,Goldman Sachs,Banking
+2800,Goldman Sachs,Work-Life Balance,2.9,Goldman Sachs,Banking
+8876,Wells Fargo,Culture and Values,3.5,Wells Fargo,Banking
+8876,Wells Fargo,Senior Leadership,3,Wells Fargo,Banking
+8876,Wells Fargo,Compensation and Benefits,3.6,Wells Fargo,Banking
+8876,Wells Fargo,Career Opportunities,3.5,Wells Fargo,Banking
+8876,Wells Fargo,Work-Life Balance,3.7,Wells Fargo,Banking
+145,J.P. Morgan,Culture and Values,3.8,JP Morgan,Banking
+145,J.P. Morgan,Senior Leadership,3.3,JP Morgan,Banking
+145,J.P. Morgan,Compensation and Benefits,3.8,JP Morgan,Banking
+145,J.P. Morgan,Career Opportunities,3.7,JP Morgan,Banking
+145,J.P. Morgan,Work-Life Balance,3.5,JP Morgan,Banking
+8843,Citi,Culture and Values,3.5,Citigroup,Banking
+8843,Citi,Senior Leadership,3.1,Citigroup,Banking
+8843,Citi,Compensation and Benefits,3.6,Citigroup,Banking
+8843,Citi,Career Opportunities,3.5,Citigroup,Banking
+8843,Citi,Work-Life Balance,3.3,Citigroup,Banking
+8874,Bank of America,Culture and Values,3.6,Bank of America,Banking
+8874,Bank of America,Senior Leadership,3.1,Bank of America,Banking
+8874,Bank of America,Compensation and Benefits,3.8,Bank of America,Banking
+8874,Bank of America,Career Opportunities,3.5,Bank of America,Banking
+8874,Bank of America,Work-Life Balance,3.5,Bank of America,Banking
+2282,Morgan Stanley,Culture and Values,3.8,Morgan Stanley,Banking
+2282,Morgan Stanley,Senior Leadership,3.5,Morgan Stanley,Banking
+2282,Morgan Stanley,Compensation and Benefits,3.6,Morgan Stanley,Banking
+2282,Morgan Stanley,Career Opportunities,3.6,Morgan Stanley,Banking
+2282,Morgan Stanley,Work-Life Balance,3.4,Morgan Stanley,Banking
+3475,Nomura Holdings,Culture and Values,3.6,Nomura,Banking
+3475,Nomura Holdings,Senior Leadership,3.1,Nomura,Banking
+3475,Nomura Holdings,Compensation and Benefits,3.5,Nomura,Banking
+3475,Nomura Holdings,Career Opportunities,3.2,Nomura,Banking
+3475,Nomura Holdings,Work-Life Balance,3.6,Nomura,Banking
+10342,BNP Paribas,Culture and Values,3.5,BNP Paribas,Banking
+10342,BNP Paribas,Senior Leadership,3.1,BNP Paribas,Banking
+10342,BNP Paribas,Compensation and Benefits,3.3,BNP Paribas,Banking
+10342,BNP Paribas,Career Opportunities,3.2,BNP Paribas,Banking
+10342,BNP Paribas,Work-Life Balance,3.7,BNP Paribas,Banking
+3150,Deutsche Bank,Culture and Values,3.3,Deutsche Bank,Banking
+3150,Deutsche Bank,Senior Leadership,3,Deutsche Bank,Banking
+3150,Deutsche Bank,Compensation and Benefits,3.4,Deutsche Bank,Banking
+3150,Deutsche Bank,Career Opportunities,3.3,Deutsche Bank,Banking
+3150,Deutsche Bank,Work-Life Balance,3.6,Deutsche Bank,Banking
+3419,UBS,Culture and Values,3.4,UBS,Banking
+3419,UBS,Senior Leadership,3,UBS,Banking
+3419,UBS,Compensation and Benefits,3.3,UBS,Banking
+3419,UBS,Career Opportunities,3.3,UBS,Banking
+3419,UBS,Work-Life Balance,3.5,UBS,Banking
+3141,Credit Suisse,Culture and Values,3.5,Credit Suisse,Banking
+3141,Credit Suisse,Senior Leadership,3.1,Credit Suisse,Banking
+3141,Credit Suisse,Compensation and Benefits,3.6,Credit Suisse,Banking
+3141,Credit Suisse,Career Opportunities,3.5,Credit Suisse,Banking
+3141,Credit Suisse,Work-Life Balance,3.6,Credit Suisse,Banking
+3482,HSBC Holdings,Culture and Values,3.6,HSBC,Banking
+3482,HSBC Holdings,Senior Leadership,3.2,HSBC,Banking
+3482,HSBC Holdings,Compensation and Benefits,3.5,HSBC,Banking
+3482,HSBC Holdings,Career Opportunities,3.5,HSBC,Banking
+3482,HSBC Holdings,Work-Life Balance,3.7,HSBC,Banking
+3456,Barclays,Culture and Values,3.8,Barclays,Banking
+3456,Barclays,Senior Leadership,3.2,Barclays,Banking
+3456,Barclays,Compensation and Benefits,3.8,Barclays,Banking
+3456,Barclays,Career Opportunities,3.5,Barclays,Banking
+3456,Barclays,Work-Life Balance,3.8,Barclays,Banking
+40772,Facebook,Culture and Values,4.2,Facebook,Tech
+40772,Facebook,Senior Leadership,3.9,Facebook,Tech
+40772,Facebook,Compensation and Benefits,4.6,Facebook,Tech
+40772,Facebook,Career Opportunities,4.2,Facebook,Tech
+40772,Facebook,Work-Life Balance,3.7,Facebook,Tech
+9079,Google,Culture and Values,4.2,Google,Tech
+9079,Google,Senior Leadership,3.9,Google,Tech
+9079,Google,Compensation and Benefits,4.3,Google,Tech
+9079,Google,Career Opportunities,4.1,Google,Tech
+9079,Google,Work-Life Balance,4.1,Google,Tech
+1138,Apple,Culture and Values,4.1,Apple,Tech
+1138,Apple,Senior Leadership,3.4,Apple,Tech
+1138,Apple,Compensation and Benefits,4.1,Apple,Tech
+1138,Apple,Career Opportunities,3.5,Apple,Tech
+1138,Apple,Work-Life Balance,3.4,Apple,Tech
+6036,Amazon,Culture and Values,3.8,Amazon,Tech
+6036,Amazon,Senior Leadership,3.4,Amazon,Tech
+6036,Amazon,Compensation and Benefits,3.9,Amazon,Tech
+6036,Amazon,Career Opportunities,3.8,Amazon,Tech
+6036,Amazon,Work-Life Balance,3.4,Amazon,Tech
+1651,Microsoft,Culture and Values,4.1,Microsoft,Tech
+1651,Microsoft,Senior Leadership,3.7,Microsoft,Tech
+1651,Microsoft,Compensation and Benefits,4.1,Microsoft,Tech
+1651,Microsoft,Career Opportunities,3.9,Microsoft,Tech
+1651,Microsoft,Work-Life Balance,3.9,Microsoft,Tech
+34865,LinkedIn,Culture and Values,4.4,Linkedin,Tech
+34865,LinkedIn,Senior Leadership,3.9,Linkedin,Tech
+34865,LinkedIn,Compensation and Benefits,4.3,Linkedin,Tech
+34865,LinkedIn,Career Opportunities,3.8,Linkedin,Tech
+34865,LinkedIn,Work-Life Balance,4.2,Linkedin,Tech
+10471,SAP,Culture and Values,4.4,SAP,Tech
+10471,SAP,Senior Leadership,4.1,SAP,Tech
+10471,SAP,Compensation and Benefits,4.4,SAP,Tech
+10471,SAP,Career Opportunities,4.2,SAP,Tech
+10471,SAP,Work-Life Balance,4.4,SAP,Tech
+1090,Adobe,Culture and Values,4.3,Adobe,Tech
+1090,Adobe,Senior Leadership,3.7,Adobe,Tech
+1090,Adobe,Compensation and Benefits,4.2,Adobe,Tech
+1090,Adobe,Career Opportunities,3.8,Adobe,Tech
+1090,Adobe,Work-Life Balance,4.2,Adobe,Tech
+11159,Salesforce,Culture and Values,4.5,Salesforce,Tech
+11159,Salesforce,Senior Leadership,4.1,Salesforce,Tech
+11159,Salesforce,Compensation and Benefits,4.5,Salesforce,Tech
+11159,Salesforce,Career Opportunities,4.2,Salesforce,Tech
+11159,Salesforce,Work-Life Balance,4.1,Salesforce,Tech
+9876,Expedia Group,Culture and Values,3.9,Expedia,Tech
+9876,Expedia Group,Senior Leadership,3.3,Expedia,Tech
+9876,Expedia Group,Compensation and Benefits,3.8,Expedia,Tech
+9876,Expedia Group,Career Opportunities,3.5,Expedia,Tech
+9876,Expedia Group,Work-Life Balance,4.1,Expedia,Tech
+1425,Cisco Systems,Culture and Values,4.1,Cisco,Tech
+1425,Cisco Systems,Senior Leadership,3.6,Cisco,Tech
+1425,Cisco Systems,Compensation and Benefits,4,Cisco,Tech
+1425,Cisco Systems,Career Opportunities,3.8,Cisco,Tech
+1425,Cisco Systems,Work-Life Balance,4.2,Cisco,Tech
+319551,AppDynamics,Culture and Values,4.5,Appdynamics,Tech
+319551,AppDynamics,Senior Leadership,4.4,Appdynamics,Tech
+319551,AppDynamics,Compensation and Benefits,4.6,Appdynamics,Tech
+319551,AppDynamics,Career Opportunities,4.5,Appdynamics,Tech
+319551,AppDynamics,Work-Life Balance,4.2,Appdynamics,Tech

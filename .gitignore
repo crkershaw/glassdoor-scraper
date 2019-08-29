@@ -1,0 +1,7 @@
+.Rproj
+.Rproj.user/*
+.Rproj.user
+api_key.txt
+glassdoor_api_code.txt
+google_api_key.json
+*.Rproj
